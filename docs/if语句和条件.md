@@ -1,0 +1,42 @@
+# if语句和条件
+
+## 条件测试
+
+```python
+==
+!=
+<
+<=
+>
+>=
+```
+
+## 多条件
+
+```python
+2 >= 1 and 3>=1
+(2 >= 1) and (3>=1)
+(2 >= 1) or (3>=1)
+```
+
+## if语句
+
+```python
+v = 0
+if v == 0:
+    print("v == 0")
+elif v < 0:
+    print("v < 0")
+else:
+    print("v > 0")
+```
+
+## 列表是否为空
+
+```python
+l = []
+if l:
+    print("l not empty")
+else:
+    print("l empty")
+```
