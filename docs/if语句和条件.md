@@ -40,3 +40,13 @@ if l:
 else:
     print("l empty")
 ```
+
+## 字符串是否为空
+
+```python
+str = ''
+if str:
+    print("not empty str")
+else:
+    print("empty str")
+```
