@@ -41,7 +41,7 @@ else:
     print("l empty")
 ```
 
-## 字符串是否为空
+## 字符串是否为空
 
 ```python
 str = ''

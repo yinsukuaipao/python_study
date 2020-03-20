@@ -9,7 +9,7 @@ print("Hello, " + name + "!")
 
 ## Python2.7中获取输入
 
-应使用raw_input()，Python2.7的input()会把用户输入解读为代码，并尝试运行
+应使用raw_input()，Python2.7的input()会把用户输入解读为代码，并尝试运行
 
 ## while循环
 
