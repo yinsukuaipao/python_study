@@ -7,7 +7,7 @@ name = input("Please enter you name:")
 print("Hello, " + name + "!")
 ```
 
-## Python2.7中获取输入
+## Python2.7中获取输入
 
 应使用raw_input()，Python2.7的input()会把用户输入解读为代码，并尝试运行
 
